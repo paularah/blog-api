@@ -1,0 +1,12 @@
+name = "blog-api"
+type = "webpack"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-25"
+kv_namespaces = [
+  {binding = "POSTS", id = "7b04641dbba346bfbd78b9305ece072c"},
+  {binding = "COMMENTS", id= "8cbe1774b7aa46b19ec31618fcbdbbc8"}
+]
