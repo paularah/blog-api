@@ -4,8 +4,8 @@ import AWS from 'aws-sdk'
 
 
 AWS.config.update({
-  accessKeyId: 'AKIA33EXPZ4V3FXYATWM',
-  secretAccessKey: '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'
+  accessKeyId: '',
+  secretAccessKey: ''
 })
 
 //API headers
